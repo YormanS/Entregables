@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">entreglabeGerman</string>
+    <string name="txtView">Selecciona un nombre</string>
+    <string name="TitulolistView">ListView</string>
+    <string name="menuGridview">GridView</string>
+    <string name="menuReciclerView">ReciclerView</string>
+
+    <string name="appPrimero">GridView</string>
+    <string name="appSegundo">Detalle de imagen</string>
+</resources>
